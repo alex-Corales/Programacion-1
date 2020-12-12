@@ -58,13 +58,13 @@ lista vinculada bidireccional con memoria dinámica.
 esto haga uso de funciones para modularizar lo que se pide:
 a) cargar una cantidad n de varados en la lista por teclado. La cantidad es ingresada por el
 usuario.
-b) mostrar los datos de un varado
-c) buscar un varado por dni
-e) buscar varados por provincia a la que desean ingresar
+b) mostrar los datos de un varado.
+c) buscar un varado por dni.
+e) buscar varados por provincia a la que desean ingresar.
 f) contar la cantidad de personas que están varadas en un país determinado, para esto
-considerar la cantidad de personas del grupo familiar, la función debe ser recursiva
-g) modificar país y/o provincia de un varado por dni
-h) modificar la existencia de persona de grupo de riesgo en el grupo de un varado por dni
+considerar la cantidad de personas del grupo familiar, la función debe ser recursiva.
+g) modificar país y/o provincia de un varado por dni.
+h) modificar la existencia de persona de grupo de riesgo en el grupo de un varado por dni.
 i) eliminar todos los varados de un país determinado, debe mostrar el nombre, apellido y dni
 del o los varados eliminados.
 j) copiar en un archivo denominado viajan.txt todos los datos de los varados que tienen como
