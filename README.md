@@ -71,9 +71,11 @@ j) copiar en un archivo denominado viajan.txt todos los datos de los varados que
 integrante una persona del grupo de riesgo.
 k) realizar una precarga de la lista por archivo. Es decir cargar desde el archivo denominado
 precarga.txt un grupo de varados.
+
 Realice un menú de opciones que permita realizar las funcionalidades solicitadas en cualquier
 orden y las veces que desee un usuario. Considere que se realiza un programa que luego será
 utilizado por un usuario, es por esto NO OLVIDAR los carteles!!
+
 Notas:
 ‐ En el caso que un dato u operación no pueda realizarse debe informarlo por pantalla.
 ‐ Los archivos deben ser legibles desde un editor de texto.
