@@ -27,14 +27,14 @@ extranjero. Para esto es necesario implementar dos TDA
 El estudiante debe definir la estructura de datos y seleccionar el tipo de datos mas apropiado
 para almacenar la información de cada varado. La información que se desea almacenar de
 cada varado es la siguiente:
-Apellido
-Nombre
-Documento (el cual debe ser DNI)
-Fecha de salida del país (tipo fecha visto en teoría)
-País en el que se encuentra (busque al menos 20 países)
-Cantidad de personas que integran del grupo (por defecto 1)
-Existen en el grupo personas de riesgo?
-Provincia a la que desea ingresar (debe incluir todas las provincias de Argentina)
+-Apellido
+-Nombre
+-Documento (el cual debe ser DNI)
+-Fecha de salida del país (tipo fecha visto en teoría)
+-País en el que se encuentra (busque al menos 20 países)
+-Cantidad de personas que integran del grupo (por defecto 1)
+-Existen en el grupo personas de riesgo?
+-Provincia a la que desea ingresar (debe incluir todas las provincias de Argentina)
 Para implementar el TDA debe definir las operaciones propias de un TDA como: inicialización,
 setter y getter para manejar la estructura de datos.
 Se piden las siguientes operaciones (20)
@@ -56,19 +56,29 @@ lista vinculada bidireccional con memoria dinámica.
 
 3. Definir en el programa principal que permita realizar las siguientes funcionalidades, para
 esto haga uso de funciones para modularizar lo que se pide:
+
 a) cargar una cantidad n de varados en la lista por teclado. La cantidad es ingresada por el
 usuario.
+
 b) mostrar los datos de un varado.
+
 c) buscar un varado por dni.
+
 e) buscar varados por provincia a la que desean ingresar.
+
 f) contar la cantidad de personas que están varadas en un país determinado, para esto
 considerar la cantidad de personas del grupo familiar, la función debe ser recursiva.
+
 g) modificar país y/o provincia de un varado por dni.
+
 h) modificar la existencia de persona de grupo de riesgo en el grupo de un varado por dni.
+
 i) eliminar todos los varados de un país determinado, debe mostrar el nombre, apellido y dni
 del o los varados eliminados.
+
 j) copiar en un archivo denominado viajan.txt todos los datos de los varados que tienen como
 integrante una persona del grupo de riesgo.
+
 k) realizar una precarga de la lista por archivo. Es decir cargar desde el archivo denominado
 precarga.txt un grupo de varados.
 
